@@ -14,17 +14,17 @@
 
 ## 💡 Project Overview
 
-### ❌ Was war das Problem?
-Die ursprüngliche Website des Fitnessstudios basierte auf WordPress und Elementor, was zu extrem langsamen Ladezeiten, hohem Server-Ressourcenverbrauch und ständigen Sicherheitsrisiken durch Plugins führte. Dennoch benötigte der Inhaber eine einfache Benutzeroberfläche, um Trainingspreise, FAQs, Trainerprofile und Kurszeiten flexibel anzupassen, ohne Code schreiben zu müssen.
+### ❌ The Challenge
+The training studio's original website was built on WordPress and Elementor, resulting in sluggish load times, high server resource consumption, and constant security vulnerabilities from outdated plugins. However, the business owner still required a simple user interface to dynamically edit pricing, FAQs, trainer profiles, and class times without editing code.
 
-### 🛠️ Was habe ich gebaut?
-Ein maßgeschneidertes, **datenbankloses (flat-file) PHP-System**. Alle Website-Inhalte sind in einer zentralen JSON-Struktur (`data/content.json`) organisiert und werden blitzschnell ausgelesen. Über ein sicheres, eigenes Admin-Interface (`bms-hub`) kann das Studio alle Inhalte verwalten. Ein Python-Compiler extrahiert WordPress-Elementor-Layouts und überführt sie in saubere, wiederverwendbare PHP-Komponenten.
+### 🛠️ The Solution
+A custom-built, **database-less (flat-file) PHP engine**. All content is organized in a central, structured JSON file (`data/content.json`) and parsed instantly. Studio owners manage all copy and modules via a secure, local admin interface (`bms-hub`). Custom Python migration scripts automate parsing and cleaning of WordPress Elementor HTML structures into clean, reusable PHP template components.
 
-### 🌟 Was ist besonders?
-*   **⚡ Sub-100ms Ladezeiten:** Durch den Verzicht auf MySQL-Datenbankabfragen lädt die Website nahezu instinktiv. Sie ist voll caching-kompatibel und erreicht perfekte Google PageSpeed Scores.
-*   **✏️ BMS Hub Flat-File Editor:** Ein maßgeschneidertes Admin-Panel, das Daten atomar (ohne File-Locks) in JSON-Dateien zurückschreibt. Dadurch bleibt das Backend wartungsfrei und extrem sicher.
-*   **🔄 Webhook Rebuilding:** Automatisierte Webhooks (`_webhook.php` und `_upload-receive.php`) verarbeiten ankommende Aktualisierungen und konvertieren Bilder auf Server-Ebene direkt in das performante WebP-Format.
-*   **🛠️ WP Extraction Engine:** Eigene Python-Migrationsskripte automatisieren das Parsen und Bereinigen von HTML-Strukturen aus Page-Buildern in standardkonformen PHP-Code.
+### 🌟 Key Highlights
+*   **⚡ Sub-100ms Page Loads:** Instantly serves page layouts without database overhead. Fully compatible with edge caching and scores 100/100 on Google PageSpeed.
+*   **✏️ BMS Hub Flat-File Editor:** A custom-made admin panel that performs atomic file updates to the JSON structure without database locking, remaining maintenance-free and highly secure.
+*   **🔄 Webhook Rebuilding:** Auto-rebuild endpoints (`_webhook.php` and `_upload-receive.php`) securely process updates from the central Zentra CMS, optimizing images to WebP on the fly.
+*   **🛠️ WP Extraction Engine:** Dedicated Python parser scripts to automate cleaning and extracting raw WordPress template layouts into clean, modern markup.
 
 ---
 
