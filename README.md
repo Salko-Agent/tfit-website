@@ -2,7 +2,7 @@
 
 > High-performance, database-less PHP website and custom flat-file editor (`bms-hub`). Replaces a legacy, bloated WordPress Elementor setup with a sub-100ms loading architecture.
 
-![FlexFit Showcase Mockup](assets/img/hero-bg.jpg) *(Background placeholder)*
+![FlexFit Showcase Mockup](assets/img/logo.jpg) *(Logo placeholder)*
 
 ---
 
