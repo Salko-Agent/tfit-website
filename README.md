@@ -1,55 +1,46 @@
-# 🏋️‍♂️ FlexFit Website & Flat-File CMS Ecosystem
+# 🏋️‍♂️ FlexFit: Database-Less PHP & Flat-File CMS Ecosystem
 
-A high-performance, database-less (flat-file) PHP & JSON content engine built to replace a legacy, resource-heavy WordPress Elementor installation.
+> High-performance, database-less PHP website and custom flat-file editor (`bms-hub`). Replaces a legacy, bloated WordPress Elementor setup with a sub-100ms loading architecture.
 
----
-
-## 🚀 Key Features
-
-*   **WordPress Extraction Engine:** Integrates custom Python compilation scripts that take Elementor HTML layouts and convert them into native, modular PHP templates.
-*   **JSON-Based Flat-File Database:** Core content, trainer profiles, FAQs, prices, and SEO configurations are structured in `data/content.json` to enable instantaneous pages loads without MySQL bottlenecks.
-*   **BMS Hub Flat-File CMS:** A custom-built, secure admin interface (`bms-hub`) that lets the client update copy, FAQs, and price structures directly via the browser. Modifications are dynamically compiled and written atomically.
-*   **Webhook Rebuilding:** Integrates with Zentra CMS and automated webhooks (`_webhook.php`, `_upload-receive.php`) to automatically fetch latest content and process images into optimized WebP formats on update.
-*   **Sub-100ms Page Load Speeds:** Fully caching-compatible, responsive, and lightweight structure resulting in near-perfect PageSpeed scores.
+![FlexFit Showcase Mockup](assets/img/hero-bg.jpg) *(Background placeholder)*
 
 ---
 
-## 🛠️ Tech Stack
-
-*   **Backend:** PHP 8.x (Routing, templates parsing, JSON handler)
-*   **CMS Administration:** HTML5, CSS3, ES6+ Javascript
-*   **Asset Management:** Tailwind CSS utilities
-*   **Build Scripts:** Python 3.12 (HTML extractors, data parsing, structural audits)
+## 🔗 Live & Links
+*   **Live Demo:** [bmsdigitalsolutions.com/demos/smartfit/](https://bmsdigitalsolutions.com/demos/smartfit/) *(Demo location on portfolio hub)*
+*   **Tech Stack:** PHP 8.x, Vanilla JS, JSON Flat-File Store, Tailwind CSS, Python (migration compiler)
 
 ---
 
-## 📂 Project Structure
+## 💡 Project Overview
 
-```
-├── bms-hub/                   # Admin dashboard (CMS Editor)
-│   ├── config.php             # Session configuration & admin credentials
-│   ├── content-editor.php     # Dynamic content editor interface
-│   └── index.php              # Auth & admin gateway
-├── data/
-│   └── content.json           # Central flat-file content storage
-├── includes/                  # PHP modular includes (Header, Footer, Navigation)
-├── assets/                    # Optimized images, JS, CSS
-├── _webhook.php               # Receives CMS updates via secure POST webhooks
-├── _upload-receive.php        # Receives WebP images from CMS
-├── index.php                  # Home page template (parses content.json)
-├── personal-training.php      # Service page template
-├── trainer.php                # Team listing template
-└── _build_content.py          # Python compiler for structural updates
-```
+### ❌ Was war das Problem?
+Die ursprüngliche Website des Fitnessstudios basierte auf WordPress und Elementor, was zu extrem langsamen Ladezeiten, hohem Server-Ressourcenverbrauch und ständigen Sicherheitsrisiken durch Plugins führte. Dennoch benötigte der Inhaber eine einfache Benutzeroberfläche, um Trainingspreise, FAQs, Trainerprofile und Kurszeiten flexibel anzupassen, ohne Code schreiben zu müssen.
+
+### 🛠️ Was habe ich gebaut?
+Ein maßgeschneidertes, **datenbankloses (flat-file) PHP-System**. Alle Website-Inhalte sind in einer zentralen JSON-Struktur (`data/content.json`) organisiert und werden blitzschnell ausgelesen. Über ein sicheres, eigenes Admin-Interface (`bms-hub`) kann das Studio alle Inhalte verwalten. Ein Python-Compiler extrahiert WordPress-Elementor-Layouts und überführt sie in saubere, wiederverwendbare PHP-Komponenten.
+
+### 🌟 Was ist besonders?
+*   **⚡ Sub-100ms Ladezeiten:** Durch den Verzicht auf MySQL-Datenbankabfragen lädt die Website nahezu instinktiv. Sie ist voll caching-kompatibel und erreicht perfekte Google PageSpeed Scores.
+*   **✏️ BMS Hub Flat-File Editor:** Ein maßgeschneidertes Admin-Panel, das Daten atomar (ohne File-Locks) in JSON-Dateien zurückschreibt. Dadurch bleibt das Backend wartungsfrei und extrem sicher.
+*   **🔄 Webhook Rebuilding:** Automatisierte Webhooks (`_webhook.php` und `_upload-receive.php`) verarbeiten ankommende Aktualisierungen und konvertieren Bilder auf Server-Ebene direkt in das performante WebP-Format.
+*   **🛠️ WP Extraction Engine:** Eigene Python-Migrationsskripte automatisieren das Parsen und Bereinigen von HTML-Strukturen aus Page-Buildern in standardkonformen PHP-Code.
 
 ---
 
-## ⚙️ Installation & Local Setup
+## 🚀 Setup & Local Setup
 
-1. Clone this repository to your local web server (e.g. Apache/Nginx with PHP 8.x):
-   ```bash
-   git clone https://github.com/yourusername/flexfit-website.git
-   ```
-2. Copy `.env.example` to `.env` and set your Zentra API keys and administrator password hash.
-3. Configure your web server document root to point to the project directory.
-4. Open your browser and navigate to `http://localhost/bms-hub` to access the administrator editor.
+### Prerequisites
+*   Web server with PHP 8.0+ support (e.g., Apache, Laragon, XAMPP)
+
+### Installation
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Salko-Agent/tfit-website.git
+    cd tfit-website
+    ```
+2.  **Configure environment:**
+    *   Copy `.env.example` to `.env` and set your API keys and admin password hashes.
+3.  **Run Locally:**
+    *   Point your local server document root (e.g. Laragon) to the folder.
+    *   Open `http://localhost/bms-hub` to access the content editor.
