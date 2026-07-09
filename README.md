@@ -6,8 +6,7 @@
 
 ---
 
-## 🔗 Live & Links
-*   **Live Demo:** [bmsdigitalsolutions.com/demos/smartfit/](https://bmsdigitalsolutions.com/demos/smartfit/) *(Demo location on portfolio hub)*
+## 🔗 Links
 *   **Tech Stack:** PHP 8.x, Vanilla JS, JSON Flat-File Store, Tailwind CSS, Python (migration compiler)
 
 ---
