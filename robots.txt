@@ -1,0 +1,16 @@
+# FlexFit Personal Training Wien
+# https://flexfit-demo.at
+
+User-agent: *
+Allow: /
+
+# Block internal/utility files
+Disallow: /api/
+Disallow: /data/
+Disallow: /includes/
+Disallow: /old_php_files/
+Disallow: /_webhook.php
+Disallow: /_upload-receive.php
+
+# Sitemap
+Sitemap: https://flexfit-demo.at/sitemap.xml

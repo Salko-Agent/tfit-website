@@ -1,0 +1,1458 @@
+{
+  "site": {
+    "name": "FlexFit",
+    "full_name": "FlexFit Personal Training",
+    "tagline": "Dein Personal Trainer in Wien",
+    "description": "Personal Training in Wien – individuell, wissenschaftlich fundiert, mit echten Ergebnissen.",
+    "phone": "+43 1 2345678",
+    "email": "marcus@flexfit-demo.at",
+    "address": "Mustergasse 12, 1080 Wien",
+    "maps_url": "https://maps.google.com/?q=Mustergasse+50,+1080+Wien",
+    "instagram": "https://www.instagram.com/flexfit.wien/",
+    "facebook": "https://www.facebook.com/flexfit.wien/",
+    "google_reviews_url": "https://g.page/r/flexfit-wien/review",
+    "logo": "/assets/img/logo.jpg",
+    "favicon": ""
+  },
+  "pages": {
+    "home": {
+      "seo": {
+        "title": "Personal Trainer Wien | FlexFit – 1080 Josefstadt",
+        "description": "Personal Training in Wien mit Sportwissenschaftler Marcus Muster. Privates Studio, 1080 Wien. Ab 69€/Einheit. Gratis Probetraining buchen!",
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "badge": "📍 Mustergasse 12, 1080 Wien",
+            "headline": "FlexFit Personal Training Wien",
+            "subheadline": "FlexFit Personal Training in Wien – mit Sportwissenschafter Marcus Muster & Team",
+            "subtext": "Erreichen Sie durch individuell betreutes, professionelles Fitness Training Ihre Ziele – Personal Training Bereits ab 69€ / Einheit",
+            "goals": [
+              "Abnehmen",
+              "Muskelaufbau",
+              "Rücken",
+              "Gesundheit"
+            ],
+            "address": "Privates Studio: Mustergasse 12, 1080 Wien",
+            "cta_primary": "Jetzt gratis Probetraining buchen",
+            "cta_primary_url": "/probetraining.php",
+            "vimeo_url": "https://player.vimeo.com/video/1042900400?h=4c03c9fe5f",
+            "bg_image": "/assets/img/training/sumo-squat.jpg",
+            "trust_rating": "4.9",
+            "trust_count": "65",
+            "trust_text": "Basierend auf 65 Bewertungen"
+          }
+        },
+        "stats": {
+          "enabled": true,
+          "label": "Statistiken",
+          "data": {
+            "items": [
+              {
+                "number": "200+",
+                "label": "Zufriedene Kunden"
+              },
+              {
+                "number": "Privates",
+                "label": "Studio Wien 1080"
+              },
+              {
+                "number": "1:1",
+                "label": "Individuelle Betreuung"
+              },
+              {
+                "number": "ab 69€",
+                "label": "Pro Einheit"
+              }
+            ]
+          }
+        },
+        "partners": {
+          "enabled": true,
+          "label": "Partner / Medien",
+          "data": {
+            "label": "Bisherige Zusammenarbeit mit",
+            "items": [
+              {
+                "name": "ORF",
+                "logo": "/assets/img/partners/orf.png"
+              },
+              {
+                "name": "Waterdrop",
+                "logo": "/assets/img/partners/waterdrop.png"
+              },
+              {
+                "name": "Heute",
+                "logo": "/assets/img/partners/heute.png"
+              },
+              {
+                "name": "Netdoktor",
+                "logo": "/assets/img/partners/netdoktor.png"
+              },
+              {
+                "name": "Gerngross",
+                "logo": "/assets/img/partners/gerngross.png"
+              },
+              {
+                "name": "Qualiant",
+                "logo": "/assets/img/partners/qualiant.png"
+              }
+            ]
+          }
+        },
+        "why": {
+          "enabled": true,
+          "label": "Warum FlexFit",
+          "data": {
+            "label": "Warum Personal Training bei FlexFit?",
+            "headline": "Warum Personal Training bei FlexFit?",
+            "subtext": "Unser ganzheitlicher Ansatz verbessert Kraft, Beweglichkeit, Koordination, Stabilität und Ausdauer.\n\nUnsere erfahrenen Personal Trainer garantieren exklusive, persönliche Betreuung sowie individuell abgestimmtes Fitnesstraining, das auf deine Bedürfnisse und Ziele zugeschnitten ist.\n\nDas Training kann alleine, zu zweit oder in einer Gruppe durchgeführt werden – bis zu 4 Personen.",
+            "studio_text": "Nie wieder überfüllte Fitnessstudios",
+            "studio_detail": "Unsere Trainingseinheiten finden in unserem privaten, voll ausgestatteten Personal Training Studio statt, in dem du deine Workouts stressfrei und ungestört absolvieren kannst. Es gibt keine festen Kosten oder Verpflichtungen. So ist ein höchst effizientes Training gewährleistet. Bei uns sparst du im Vergleich zu einer Mitgliedschaft im Fitnessstudio garantiert eine erhebliche Zeit.",
+            "studio_address": "Unser privates Studio: Mustergasse 12, 1080 Wien",
+            "image": "/assets/img/training/lat-exercise.jpg",
+            "image_badge_number": "100%",
+            "image_badge_label": "Individuelle Betreuung",
+            "goals": [
+              "Fitness",
+              "Muskelaufbau",
+              "Gewichtsreduktion",
+              "Rückentraining",
+              "Lebensqualität",
+              "Gesundes Altern"
+            ],
+            "features": [
+              {
+                "icon": "🎯",
+                "title": "Maßgeschneidertes Training",
+                "text": "Kein Einheitsplan – jede Einheit wird individuell auf deine Ziele, dein Fitnesslevel und deinen Gesundheitszustand abgestimmt."
+              },
+              {
+                "icon": "🏛️",
+                "title": "Privates Studio – kein Gedränge",
+                "text": "Trainiere in unserem voll ausgestatteten Privatstudio in der Mustergasse 12, 1080 Wien – stressfrei und ungestört."
+              },
+              {
+                "icon": "🔬",
+                "title": "Wissenschaftlich fundiert",
+                "text": "Marcus Muster ist Sportwissenschaftler. Jedes Programm basiert auf aktueller Forschung – effizient, sicher, nachhaltig."
+              },
+              {
+                "icon": "💡",
+                "title": "Lifestyle-Coaching",
+                "text": "Ernährung, Schlaf, Stressmanagement – wir coachen Sie ganzheitlich. Training. Ernährung. Lifestyle."
+              }
+            ]
+          }
+        },
+        "services": {
+          "enabled": true,
+          "label": "Leistungen",
+          "data": {
+            "label": "Leistungen",
+            "headline": "Was wir anbieten",
+            "items": [
+              {
+                "title": "Personal Training",
+                "short": "1:1 Training",
+                "description": "Individuelles, persönliches 1:1 Fitnesstraining für maßgeschneiderte, optimale Betreuung – alleine oder zu zweit.",
+                "image": "/assets/img/training/sumo-squat.jpg",
+                "url": "/personal-training.php",
+                "price": "ab 69 €",
+                "price_unit": "/ Einheit"
+              },
+              {
+                "title": "Kleingruppentraining",
+                "short": "2–4 Personen",
+                "description": "Training mit Partner:in oder Freunden – für extra Motivation, mehr Spaß und dennoch persönliche Betreuung.",
+                "image": "/assets/img/training/gruppentraining.jpg",
+                "url": "/personal-training.php#kleingruppe",
+                "price": "auf Anfrage",
+                "price_unit": ""
+              },
+              {
+                "title": "Firmenfitness",
+                "short": "Corporate",
+                "description": "Trainings und Workshops direkt in Ihrem Unternehmen – für fitte, gesunde und motivierte Mitarbeiter.",
+                "image": "/assets/img/firmenfitness/hero.jpeg",
+                "url": "/firmenfitness.php",
+                "price": "auf Anfrage",
+                "price_unit": ""
+              }
+            ]
+          }
+        },
+        "trainer": {
+          "enabled": true,
+          "label": "Trainer-Profil (Marcus)",
+          "data": {
+            "name": "Marcus Muster",
+            "title": "Ihr Personal Trainer in Wien",
+            "credentials": "Sportwissenschaftler, staatlich geprüfter Fitnesstrainer, 15 Jahre Erfahrung als Personal Trainer, Autor und Gründer von FlexFit Personal Training e.U.",
+            "photo": "/assets/img/team/marcus-kohler.jpg",
+            "specializations": [
+              "Gesundheitsorientiertes Krafttraining & Langlebigkeit",
+              "Gesunder Rücken",
+              "Muskelaufbau, Fettabbau & Straffung",
+              "Fitness & Lebensqualität",
+              "Training bei metabolischem Syndrom"
+            ]
+          }
+        },
+        "benefits": {
+          "enabled": true,
+          "label": "Krafttraining-Vorteile",
+          "data": {
+            "label": "Deshalb Krafttraining",
+            "headline": "Krafttraining grenzt an ein Wundermittel",
+            "subtext": "Krafttraining grenzt an ein Wundermittel, wie aktuelle Studien bestätigen",
+            "items": [
+              {
+                "icon": "💪",
+                "title": "Muskelaufbau & Stärke",
+                "text": "Baut Muskeln auf & macht stärker"
+              },
+              {
+                "icon": "❤️",
+                "title": "Herz-Kreislauf-Gesundheit",
+                "text": "Wirkt positiv auf Immunsystem, Herz-Kreislauf-System, Gelenke, Knochen & Gehirn"
+              },
+              {
+                "icon": "🦴",
+                "title": "Rücken & Gelenke",
+                "text": "Lindert oder eliminiert Rücken- & Nackenschmerzen"
+              },
+              {
+                "icon": "🧠",
+                "title": "Prävention",
+                "text": "Prävention gegen Adipositas, Bluthochdruck, Diabetes, Demenz und viele weitere Erkrankungen"
+              },
+              {
+                "icon": "⏳",
+                "title": "Gesund altern",
+                "text": "Extrem wichtig für Fitness im Alter"
+              },
+              {
+                "icon": "🔥",
+                "title": "Fettabbau",
+                "text": "Erhöht den Grundumsatz dauerhaft – mehr Muskeln = mehr Kalorienverbrauch"
+              }
+            ]
+          }
+        },
+        "testimonials": {
+          "enabled": true,
+          "label": "Testimonials / Bewertungen",
+          "data": {
+            "label": "Was Kunden sagen",
+            "headline": "Echte Ergebnisse, echte Menschen",
+            "items": [
+              {
+                "name": "Pete Kollmann",
+                "rating": 5,
+                "date": "vor 7 Monaten",
+                "text": "Bin erst seit ca. 6 Wochen bei Marcus in Training und kann schon die ersten Erfolge sehen und spüren! Das Training ist perfekt auf meine Bedürfnisse und Ziele abgestimmt! Absolute Empfehlung 💪"
+              },
+              {
+                "name": "Roman Winkler",
+                "rating": 5,
+                "date": "vor 10 Monaten",
+                "text": "Top, top, top! FlexFit mit Marcus hat alles was es für ein geführtes Training braucht: einen exzellenten Trainer mit langjähriger Erfahrung, einen guten Mix aus Forderung und Förderung. Ich trainiere seit 4 Monaten und noch nie ist soviel weitergegangen – ohne Stress und Hektik!"
+              },
+              {
+                "name": "Markus Pusnik",
+                "rating": 5,
+                "date": "vor 10 Monaten",
+                "text": "Ich bin absolut begeistert: Kompetent, individuell fordernd und motivierend! Trainings werden mit meinem Physio akkordiert und ich bekomme auch Pläne fürs Heimtraining. Die Location ist äußerst ansprechend und super clean! Klare Empfehlung."
+              },
+              {
+                "name": "Olivere Andronikidis",
+                "rating": 5,
+                "date": "vor 1 Jahr",
+                "text": "Eric is an excellent personal trainer! He helps me a lot during every session we have in order to build muscles and improve my overall fitness. I highly recommend him to everyone who wants a personal trainer!"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "personal_training": {
+      "seo": {
+        "title": "Personal Training Wien | FlexFit 1080 – ab 69€",
+        "description": "1:1 Personal Training in Wien mit Sportwissenschaftler Marcus Muster. Privates Studio, 1080 Wien. Ab 69€/Einheit. Gratis Probetraining buchen!",
+        "og_title": "Personal Training Wien | FlexFit 1080",
+        "og_description": "Individuelles Personal Training in Wien – wissenschaftlich fundiert. Privates Studio, 1080 Josefstadt. Gratis Probetraining buchen!",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "badge": "📍 Personal Training Wien · 1080",
+            "headline": "Personal Training Wien – FlexFit",
+            "subheadline": "Endlich fit und schmerzfrei das Leben genießen",
+            "price_note": "Personal Training bereits ab 69 € / Einheit",
+            "address": "Privates Studio: Mustergasse 12, 1080 Wien",
+            "cta_primary": "Gratis Probetraining buchen",
+            "cta_primary_url": "/probetraining.php",
+            "cta_secondary": "Preise ansehen",
+            "cta_secondary_url": "#preise",
+            "trust_rating": "4.9",
+            "trust_count": "65",
+            "bg_image": "/assets/img/training/sumo-squat.jpg"
+          }
+        },
+        "intro": {
+          "enabled": true,
+          "label": "Intro-Text",
+          "data": {
+            "headline": "Training bei FlexFit",
+            "text": "Sie haben überlaufene Fitness Studios satt und möchten endlich mit individueller Betreuung Ihre Fitness-Ziele erreichen? Sie möchten endlich wieder fit sein und sich besser fühlen? Dann sind Sie bei FlexFit genau richtig. Krafttraining ist nachweislich das wichtigste Training für Ihre Gesundheit.",
+            "address": "Mustergasse 12, 1080 Wien"
+          }
+        },
+        "krafttraining": {
+          "enabled": true,
+          "label": "Deshalb Krafttraining",
+          "data": {
+            "label": "Deshalb Krafttraining",
+            "headline": "Krafttraining grenzt an ein Wundermittel",
+            "subtext": "Wie aktuelle Studien bestätigen – Krafttraining ist das wichtigste Training für Ihre Gesundheit",
+            "items": [
+              {
+                "icon": "💪",
+                "title": "Muskeln aufbauen & stärker werden",
+                "text": "Baut Muskeln auf & macht stärker"
+              },
+              {
+                "icon": "❤️",
+                "title": "Herz, Gelenke & Gehirn",
+                "text": "Wirkt positiv auf Immunsystem, Herz-Kreislauf-System, Gelenke, Knochen & Gehirn"
+              },
+              {
+                "icon": "🦴",
+                "title": "Rücken- & Nackenschmerzen",
+                "text": "Lindert oder eliminiert Rücken- & Nackenschmerzen"
+              },
+              {
+                "icon": "🛡️",
+                "title": "Prävention von Zivisarahtionskrankheiten",
+                "text": "Prävention gegen Adipositas, Bluthochdruck, Diabetes, Demenz und viele weitere Erkrankungen"
+              },
+              {
+                "icon": "⏳",
+                "title": "Beste Altersvorsorge",
+                "text": "Insgesamt die beste Vorsorge für Ihre Gesundheit"
+              },
+              {
+                "icon": "🌟",
+                "title": "Gesteigerte Lebensqualität",
+                "text": "Insgesamt erfahren Sie durch individuelles Krafttraining einen deutlichen Anstieg an Lebensqualität. Worauf warten Sie?"
+              }
+            ]
+          }
+        },
+        "vorteile": {
+          "enabled": true,
+          "label": "Vorteile Personal Training",
+          "data": {
+            "label": "Warum Personal Training bei FlexFit?",
+            "headline": "Vorteile von Personal Training bei FlexFit",
+            "quote": "\"Unser Training ist ideal für vielbeschäftigte Menschen, denn in nur einer Einheit erreichen Sie oft das, wofür Sie im Fitnessstudio zwei Einheiten benötigen würden, da wir mit intensiven Supersätzen arbeiten, was in Fitness Studios nicht möglich ist. So genügen bereits 1-2 Trainingseinheiten pro Woche, um Ihre Ziele zu erreichen – wie über 200 zufriedene Kunden bestätigen können.\"",
+            "items": [
+              {
+                "icon": "⚡",
+                "title": "Effektiveres Training",
+                "text": "Unser ganzheitlicher Ansatz verbessert Kraft, Beweglichkeit, Koordination, Stabilität und Ausdauer – alles in einem privaten, voll ausgestatteten Studio ohne Wartezeiten."
+              },
+              {
+                "icon": "⏱️",
+                "title": "Zeitersparnis",
+                "text": "Mit einem individuell abgestimmten Trainingsplan können Sie Ihre Zeit im Training optimal nutzen und schneller Ergebnisse erzielen. So genügen bereits 1–2 Einheiten pro Woche, um Ihre Ziele zu erreichen."
+              },
+              {
+                "icon": "💰",
+                "title": "Sie zahlen nur das, was Sie auch nutzen",
+                "text": "Keine Mitgliedschaftsgebühren, keine versteckten Kosten. Sie investieren gezielt in Ihr Training und zahlen ausschließlich für die Einheiten, die Sie auch wirklich absolvieren."
+              },
+              {
+                "icon": "🚫",
+                "title": "Keine laufenden Kosten",
+                "text": "Es gibt keine festen Kosten oder Verpflichtungen. Sie zahlen nur für die tatsächlich absolvierten Trainingseinheiten – ohne Mitgliedschaft oder Bindung."
+              },
+              {
+                "icon": "🎓",
+                "title": "Professionelle Anleitung",
+                "text": "Mit einem erfahrenen, engagierten Fitnessexperten an Ihrer Seite werden Sie kontinuierlich motiviert und herausgefordert, Ihr Bestes zu geben. Ihr Trainer hält Sie auf Kurs, selbst wenn die Motivation nachlässt."
+              },
+              {
+                "icon": "✅",
+                "title": "Korrekte Übungsausführung",
+                "text": "Unsere Personal Coaches achten besonders auf die richtige Ausführung der Übungen, um Verletzungen zu vermeiden und die Effektivität Ihrer Workouts zu maximieren."
+              },
+              {
+                "icon": "🎯",
+                "title": "Individuelle Trainingsgestaltung",
+                "text": "Unsere erfahrenen Personal Coaches berücksichtigen Ihre Ziele, Fitnesslevel, Gesundheitszustand und persönlichen Vorlieben, um einen individuellen Trainingsplan zu erstellen, der perfekt zu Ihnen passt."
+              },
+              {
+                "icon": "🔄",
+                "title": "Abwechslungsreiches Training",
+                "text": "Das Training kann alleine, zu zweit oder in einer Gruppe durchgeführt werden – bis zu 4 Personen. Abwechslungsreiche Trainingsformen halten die Motivation dauerhaft hoch."
+              },
+              {
+                "icon": "🏠",
+                "title": "Exklusives Ambiente",
+                "text": "Unsere Trainingseinheiten finden in unserem privaten, voll ausgestatteten Personal Training Studio statt, in dem Sie Ihre Workouts stressfrei und ungestört absolvieren können."
+              },
+              {
+                "icon": "🌟",
+                "title": "Gesteigerte Lebensqualität",
+                "text": "Unsere Trainer helfen Ihnen, Ihren stressigen Alltag besser zu bewältigen, indem Sie zusätzliche Betreuung zu Ernährung, Bewegung, Schlaf & Stressmanagement zur Verfügung stellen."
+              }
+            ],
+            "quote_author": "Marcus Muster, Geschäftsführer FlexFit Personal Training e.U.",
+            "intro": "Unser Training ist ideal für vielbeschäftigte Menschen, denn in nur einer Einheit erreichen Sie oft das, wofür Sie im Fitnessstudio zwei Einheiten benötigen würden, da wir mit intensiven Supersätzen arbeiten, was in Fitness Studios nicht möglich ist. So genügen bereits 1-2 Trainingseinheiten pro Woche, um Ihre Ziele zu erreichen – wie über 200 zufriedene Kunden bestätigen können."
+          }
+        },
+        "spezialisierungen": {
+          "enabled": true,
+          "label": "Spezialisierungen",
+          "data": {
+            "label": "Spezialisierungen",
+            "headline": "Für jeden das richtige Training",
+            "items": [
+              {
+                "icon": "🏋️",
+                "title": "Allgemeine Fitness & Gesundheit",
+                "text": "Sie wollen Ihr allgemeines Fitness-Level steigern und Ihre Gesundheit fördern? Dann sind Sie hier genau richtig. Krafttraining ist nachweislich das wichtigste Training für Ihre Gesundheit und absolut esentiell. Mit gezieltem Krafttraining, egal, ob für Anfänger, Erfahrene oder Profis, können Sie Ihre Fitness auf das nächste Level bringen und gleichzeitig Ihr persönliches Wohlbefinden langfristig fördern. Sie verbessern Ihre Haltung, Ihre Knochendichte, beugen Rückenschmerzen, Gewichtszunahme und Zivisarahtionskrankheiten vor. Krafttraining wird auch sehr erfolgreich beim metabolischen Syndrom oder Diabetes eingesetzt. Des Weiteren verbessern wir natürlich auch Ihre Beweglichkeit, Koordination, Stabilität und Ausdauer."
+              },
+              {
+                "icon": "🦴",
+                "title": "Gesunder Rücken & Nacken",
+                "text": "Zivisarahtionskrankheit Rückenschmerzen! Massagen sind meist nur Symptombekämpfung. Gezieltes und regelmäßiges Training hingegen kann die Ursache der Nacken- oder Rückenschmerzen korrigieren. Wichtige Bestandteile unseres Wirbelsäulentrainings sind: Mobisarahtion, Beweglichkeitstraining, Lernen der Ansteuerung der komplexen, tiefen Wirbelsäulenstabilität, Krafttraining."
+              },
+              {
+                "icon": "💪",
+                "title": "Muskelaufbau – stärker werden",
+                "text": "Muskeln aufbauen, stärker, straffer & schöner werden, Selbstvertrauen und Belastbarkeit steigern, sich absolut wohlfühlen. Muskelaufbau ist für uns alle unglaublich wichtig. Denn Muskelabbau beginnt schon ab dem 25. Lebensjahr, wenn man sich nicht dagegen wehrt. Und zwar mit progressivem Widerstandstraining. Unsere erfahrenen Trainer achten darauf, Sie genau richtig und sicher zu belasten. Sie lernen dabei die wichtigsten Bewegungen und Übungen im Krafttraining. Übungen, welche Ihnen den Alltag auch vereinfachen werden."
+              },
+              {
+                "icon": "🤰",
+                "title": "Krafttraining & Schwangerschaft",
+                "text": "Training während der Schwangerschaft erfordert besondere Vorsicht und Expertise. Krafttraining während der Schwangerschaft bietet aber auch unzählige Vorteile für Frau und Kind und sollte daher unbedingt, mit einem Experten, durchgeführt werden. Post Partum: Nach einer Schwangerschaft wieder ins Krafttraining einzusteigen, erfordert Zeit, Geduld und vor allem eine sichere Herangehensweise. In der Regel kann (nach Absprache mit Arzt) ab der 6. Woche nach Entbindung wieder leicht dosiert mit Krafttraining begonnen werden."
+              },
+              {
+                "icon": "👴",
+                "title": "Training als Altersvorsorge",
+                "text": "Angepasstes Kraft- und Koordinationstraining sind von enormer Wichtigkeit, um gesund altern zu können. Die beste Investition in Ihre Zukunft. Krafttraining erhöht nicht nur die Knochendichte, die Kraft und die Verletzungsprophylaxe, sondern steigert auch die Fitness im Alltag, verbessert die Körperhaltung und verringert tägliche körperliche Beschwerden. Der Erhalt der Selbständigkeit & Mobilität steht hier oft an erster Stelle, denn Krafttraining wirkt gegen altersbedingten Muskelschwund!"
+              },
+              {
+                "icon": "⚖️",
+                "title": "Gesund & nachhaltig abnehmen",
+                "text": "Krafttraining hilft Ihnen ungemein dabei, Ihr Traumgewicht oder Ihre Wunschfigur zu erreichen. Zusätzlich spielt die richtige Ernährung eine essentielle Rolle. Daher wird von uns auch Ernährungscoaching angeboten, um Sie gesund und nachhaltig an Ihre Ziele zu bringen. Keine anstrengende Diät, sondern langfristige Umstellung von Ernährungsgewohnheiten. Weg von künstlichen Dick- und Krankmachern, hin zu natürlichen, gesunden Lebensmitteln."
+              }
+            ]
+          }
+        },
+        "ablauf": {
+          "enabled": true,
+          "label": "Ablauf",
+          "data": {
+            "label": "Ablauf",
+            "headline": "Ablauf",
+            "text": "In einem unverbindlichen, kostenlosen Probetraining fokussieren wir uns auf die Ausarbeitung Ihrer Wünsche und Bedürfnisse. Ebenso findet hier eine umfangreiche Anamnese statt in der wir Ziele, Trainingszustand, Verletzungen etc. klären. Mit den hier generierten Informationen kann der Trainer das individuell auf Sie zugeschnittene Trainingsprogramm erstellen. Darüber hinaus stehen selbstverständlich auch Lifestyle, Ernährung und eigenständiges Training im Fokus. Unsere Trainings werden in Blöcken verkauft, um eine längerfristige Betreuung zu gewähren.",
+            "steps": [
+              {
+                "num": "01",
+                "title": "Kostenloses Probetraining",
+                "text": "In einem unverbindlichen, kostenlosen Probetraining fokussieren wir uns auf die Ausarbeitung Ihrer Wünsche und Bedürfnisse. Ebenso findet hier eine umfangreiche Anamnese statt in der wir Ziele, Trainingszustand, Verletzungen etc. klären."
+              },
+              {
+                "num": "02",
+                "title": "Ihr individueller Trainingsplan",
+                "text": "Mit den hier generierten Informationen kann der Trainer das individuell auf Sie zugeschnittene Trainingsprogramm erstellen. Darüber hinaus stehen selbstverständlich auch Lifestyle, Ernährung und eigenständiges Training im Fokus."
+              },
+              {
+                "num": "03",
+                "title": "Trainingsblöcke kaufen",
+                "text": "Unsere Trainings werden in Blöcken verkauft, um eine längerfristige Betreuung zu gewähren."
+              }
+            ]
+          }
+        },
+        "gruppentraining": {
+          "enabled": true,
+          "label": "Gruppentraining",
+          "data": {
+            "label": "Gruppentraining – ab 40€/h",
+            "headline": "Gruppentraining",
+            "text": "Bei FlexFit haben Sie auch die Möglichkeit, mit Partner:in, Freund:innen oder Kolleg:innen in Kleingruppen gemeinsam betreutes Training zu genießen. Sie profitieren dabei von Gruppendynamik, gegenseitiger Motivation, erhöhtem Spaßfaktor und dazu einer Preisersparnis.",
+            "prices": [
+              "2 Personen: €60,- p.p.",
+              "3 Personen: €50,- p.p.",
+              "4 Personen: €40,- p.p."
+            ]
+          }
+        },
+        "mobiles_training": {
+          "enabled": true,
+          "label": "Mobiles Personal Training",
+          "data": {
+            "label": "Mobiles Personal Training",
+            "headline": "Mobiles Personal Training",
+            "text": "Genießen Sie optimale Trainingsbetreuung bei Ihnen zuhause. Der Coach kommt zu Ihnen, um Sie individuell zu betreuen. Die Vorteile hierbei sind vor allem eine erhebliche Zeitersparnis für den Kunden. Trainiert wird mit eigenem Körpergewicht, Hanteln und Bändern. Für allgemeine Fitness & Gesundheit ist diese Art von Training hervorragend geeignet.",
+            "bezirke": "Wir bieten mobile Trainings in den Bezirken 1010, 1020, 1070, 1080, 1090, 1170, 1180 und 1190 an.",
+            "anfahrt": "Bitte beachten Sie, dass zusätzlich noch An- und Abfahrt verrechnet werden. Diese sind je nach Standort €50–€70."
+          }
+        },
+        "preise": {
+          "enabled": true,
+          "label": "Preise",
+          "data": {
+            "label": "Unser Trainerteam",
+            "headline": "Preise: Unser Training bereits ab 69€/Einheit*",
+            "subtext": "*Ab-Preise verstehen sich pro Einheit bei Kauf eines 45 min. 10er Blocks. Für detaillierte Preise bitte Wunschtrainer wählen.",
+            "trainers": [
+              {
+                "name": "Marcus Muster",
+                "focus": "Gesundheit, Fitness & Lebensqualität",
+                "price": "ab 86€ / Training*",
+                "img": "/assets/img/team/marcus-kohler.jpg",
+                "specs": [
+                  "Sportwissenschaftler",
+                  "15+ Jahre Erfahrung",
+                  "Rücken & Schmerzfreiheit",
+                  "Metabolisches Syndrom"
+                ]
+              },
+              {
+                "name": "Eric Weber",
+                "focus": "Muskel- & Kraftaufbau",
+                "price": "ab 76€ / Training*",
+                "img": "/assets/img/team/eric-weber.jpeg",
+                "specs": [
+                  "Staatl. gepr. Fitnesstrainer",
+                  "Masterclass Personal Training",
+                  "Online Strength Coach",
+                  "300+ zufriedene Kunden"
+                ]
+              },
+              {
+                "name": "Oliver Kraft",
+                "focus": "Gesundheit & Körperformung",
+                "price": "ab 69€ / Training*",
+                "img": "/assets/img/team/oliver-kraft.jpeg",
+                "specs": [
+                  "Staatl. gepr. Fitnesstrainer",
+                  "Gesundheitstraining",
+                  "Rehabilitation",
+                  "Krafttraining"
+                ]
+              }
+            ],
+            "gruppen_note": "Unser Gruppentraining startet bereits ab 40€ pro Person"
+          }
+        },
+        "erreichbarkeit": {
+          "enabled": true,
+          "label": "Erreichbarkeit",
+          "data": {
+            "text": "Unser Studio besticht durch eine sehr gute Lage. Erreichbar öffentlich über die U-6, sowie die Straßenbahnlinien 9, 42 & 43. Zu Fuß oder mit dem Rad ist das Studio selbstverständlich aus 1080 und den angrenzenden Bezirken 1070, 1090, 1160, 1170, 1180 sowie 1190 sehr gut erreichbar. Mit dem Auto findet man ebenso immer einen Parkplatz nahe des Studios.",
+            "address": "Mustergasse 12, 1080 Wien"
+          }
+        }
+      }
+    },
+    "firmenfitness": {
+      "seo": {
+        "title": "Firmenfitness Wien | FlexFit – betriebliche Gesundheitsvorsorge",
+        "description": "Firmenfitness Wien – Gruppentrainings, Workshops & Einzeltrainings für Ihre Mitarbeiter. Das FlexFit-Konzept von Marcus Muster. Jetzt anfragen!",
+        "og_title": "Firmenfitness Wien | FlexFit",
+        "og_description": "Maßgeschneiderte Firmenfitness-Programme in Wien. Gruppenworkouts, Gesundheits-Workshops & mehr.",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "label": "Firmenfitness Wien",
+            "headline": "Firmenfitness Wien – betriebliche Gesundheitsvorsorge",
+            "subtext": "Gruppentrainings, Workshops, Einzeltrainings & Fitnessgespräche – direkt bei Ihnen im Unternehmen oder in unserem Studio.",
+            "cta": "Unverbindlich anfragen",
+            "cta_url": "/kontakt.php"
+          }
+        },
+        "intro": {
+          "enabled": true,
+          "label": "Einleitung",
+          "data": {
+            "headline": "Firmenfitness Wien – Gruppentrainings, Workshops, Einzeltrainings oder Fitnessgespräche",
+            "text": "Sie suchen nach einer effektiven Möglichkeit, die Gesundheit und das Wohlbefinden Ihrer Mitarbeiter zu fördern und gleichzeitig die Produktivität am Arbeitsplatz zu steigern? Herzlich willkommen bei unserer exklusiven Firmenfitness in Wien. Wir bieten maßgeschneiderte Programme, die auf die Bedürfnisse Ihrer Firma zugeschnitten sind und Ihren Mitarbeitern helfen, sich fit zu halten, Stress abzubauen und ihre Leistungsfähigkeit zu optimieren."
+          }
+        },
+        "why": {
+          "enabled": true,
+          "label": "Warum Firmenfitness",
+          "data": {
+            "label": "Warum Firmenfitness?",
+            "headline": "Betriebliche Gesundheitsvorsorge Wien – Fitness als Investition in Ihr Unternehmen",
+            "trainer": "Marcus Muster – Sportwissenschaftler & über 15 Jahre Erfahrung im Personal Training",
+            "vorteile": [
+              {
+                "icon": "😊",
+                "title": "Gesündere und glücklichere Mitarbeiter",
+                "text": "Regelmäßige Bewegung und Fitness steigern das allgemeine Wohlbefinden Ihrer Mitarbeiter und reduzieren Stress und Krankheitsausfälle."
+              },
+              {
+                "icon": "📉",
+                "title": "Reduktion von Ausfällen",
+                "text": "Kraft- & Fitnesstraining reduzieren Sturzgefahr und Verletzungen, wie z.B. an Wirbelsäule oder Knie."
+              },
+              {
+                "icon": "🦴",
+                "title": "Gesunder Rücken",
+                "text": "Das von Marcus Muster entwickelte und erprobte FlexFit-System reduziert Rücken- & Nackenbeschwerden und beugt ebenso diese vor."
+              },
+              {
+                "icon": "📈",
+                "title": "Steigerung der Produktivität",
+                "text": "Durch körperliche Aktivität werden Konzentration, Kreativität und Leistungsfähigkeit verbessert, was sich positiv auf die Arbeitsleistung auswirkt."
+              },
+              {
+                "icon": "🤝",
+                "title": "Team-Building",
+                "text": "Gemeinsame Fitnessaktivitäten fördern den Teamgeist und stärken das Zusammengehörigkeitsgefühl unter den Mitarbeitern."
+              },
+              {
+                "icon": "⭐",
+                "title": "Attraktivität als Arbeitgeber",
+                "text": "Firmenfitness ist ein wertvolles Benefit und kann helfen, qualifizierte Mitarbeiter zu gewinnen und langfristig zu binden."
+              }
+            ]
+          }
+        },
+        "angebot": {
+          "enabled": true,
+          "label": "Unser Angebot",
+          "data": {
+            "label": "Unser Angebot für Ihre Firma",
+            "headline": "Firmenfitness-Programme für Ihr Unternehmen",
+            "text": "Unser erfahrenes Team von Fitnessexperten bietet Ihnen eine Vielzahl von Firmenfitness-Programmen in Wien, die speziell auf die Anforderungen Ihrer Firma abgestimmt sind.",
+            "items": [
+              {
+                "num": "01",
+                "title": "Gesundheits-Workshop 2,5h: €790,-",
+                "text": "Informative Workshops zu den Themen Krafttraining, Bewegung, Ernährung, Stressbewältigung und allgemeiner Gesundheit. Der Workshop beinhaltet ebenso kleine, einfache Übungen, welche unkompliziert in den Arbeitsalltag integriert werden können. Es geht vor allem darum über Gewohnheiten den Lebensstil anzupassen, ohne Perfektion. Dauer: 2,5h."
+              },
+              {
+                "num": "02",
+                "title": "Fit im Office – Workshop 60 min: €390,-",
+                "text": "Workshop bestehend aus Theorie und Praxis zu einfachen Übungen am Arbeitsplatz zur Reduktion von Rücken- & Nackenbeschwerden. Dauer: 60 min."
+              },
+              {
+                "num": "03",
+                "title": "Firmenfitness 60 min: Im Studio: €130–170,- / Im Betrieb: €180–220,-",
+                "text": "Ob in unserem Studio (Mustergasse 12, 1080 Wien) oder direkt bei Ihnen im Unternehmen – wir gestalten effektive Gruppenworkouts, die sich nahtlos in den Arbeitsalltag integrieren lassen."
+              },
+              {
+                "num": "04",
+                "title": "Einzelcoachings",
+                "text": "Mittels Einzelgesprächen wird versucht den Alltag der Mitarbeiter so zu gestalten, dass diese Ihren Fitnesszielen näher kommen. Hier werden vor allem Themen wie Training, Bewegung, Ernährung und Schlaf behandelt."
+              },
+              {
+                "num": "05",
+                "title": "Office Mobilisierung",
+                "text": "10-minütige Mobilisierungen am Arbeitsplatz. Gegen Rückenschmerzen und Verspannungen. Online zugeschaltet."
+              },
+              {
+                "num": "06",
+                "title": "Komplett Paket",
+                "text": "Eine Kombination aus Gesundheits-Workshop (Kick-off Event) und anschließender Betreuung. Dabei wird das von Marcus Muster erprobte FlexFit Konzept angewandt, welches schon unzähligen Personen helfen konnte Rückenschmerzen zu reduzieren oder zu eliminieren."
+              }
+            ]
+          }
+        },
+        "fazit": {
+          "enabled": true,
+          "label": "FlexFit Firmenfitness",
+          "data": {
+            "headline": "FlexFit Firmenfitness",
+            "text": "Fördern Sie die Gesundheit und das Wohlbefinden Ihrer Mitarbeiter mit unserer maßgeschneiderten Firmenfitness in Wien. Mit unseren speziell auf Ihr Unternehmen zugeschnittenen Programmen können Sie die Produktivität steigern, das Arbeitsklima verbessern und sich als attraktiver Arbeitgeber positionieren. Investieren Sie in die Gesundheit Ihrer Mitarbeiter – Ihr Unternehmen wird es Ihnen danken!",
+            "cta_text": "Lassen Sie uns gemeinsam ein maßgeschneidertes Firmenfitness-Programm für Ihr Unternehmen entwickeln. Kontaktieren Sie uns noch heute für eine unverbindliche Beratung.",
+            "prices": "Gesundheits-Workshop 2,5h: €790,- | Fit im Office Workshop 60 min: €390,- | Firmenfitness 60 min im Studio: €130–170,- | Im Betrieb: €180–220,- je nach Anfahrt und Umfang | Preise verstehen sich netto, inklusive Anfahrt in Wien",
+            "contact": "Marcus Muster | +4312345678 | marcus@flexfit-demo.at | Muster Fitness KG, Mustergasse 12, 1080 Wien"
+          }
+        },
+        "partners": {
+          "enabled": true,
+          "label": "Bisherige Zusammenarbeit",
+          "data": {
+            "label": "Bisherige Zusammenarbeit mit:",
+            "items": [
+              {
+                "name": "ORF",
+                "logo": "/assets/img/partners/orf.png"
+              },
+              {
+                "name": "Waterdrop",
+                "logo": "/assets/img/partners/waterdrop.png"
+              },
+              {
+                "name": "Heute",
+                "logo": "/assets/img/partners/heute.png"
+              },
+              {
+                "name": "Netdoktor",
+                "logo": "/assets/img/partners/netdoktor.png"
+              },
+              {
+                "name": "Gerngross",
+                "logo": "/assets/img/partners/gerngross.png"
+              },
+              {
+                "name": "Qualiant",
+                "logo": "/assets/img/partners/qualiant.png"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "physiotherapie": {
+      "seo": {
+        "title": "Physiotherapie 1080 Wien | FlexFit – Mustergasse 12",
+        "description": "Physiotherapie in 1080 Wien, Mustergasse 12. Passive & aktive Physiotherapie, Sportphysiotherapie, Rehabilitation. Terminvereinbarung direkt beim Therapeuten.",
+        "og_title": "Physiotherapie 1080 Wien | FlexFit",
+        "og_description": "Ihre PhysiotherapeutInnen in Wien 1080 – Mustergasse 12. Sportphysiotherapie, Rehabilitation & Trainingstherapie.",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "label": "Physiotherapie Wien 1080",
+            "headline": "Physiotherapie 1080 Wien – Ihre Gesundheit im Fokus",
+            "subtext": "Ihre PhysiotherapeutInnen in der Mustergasse 12, 1080 Wien",
+            "cta": "Termin vereinbaren",
+            "cta_url": "/kontakt.php"
+          }
+        },
+        "team": {
+          "enabled": true,
+          "label": "Physiotherapie Team",
+          "data": {
+            "label": "Physiotherapie 1080 Wien – Team",
+            "headline": "Physiotherapie 1080 Wien – Team",
+            "members": [
+              {
+                "name": "Paul Huber",
+                "phone": "+4312345678",
+                "img": ""
+              },
+              {
+                "name": "Sarah Meier",
+                "phone": "+4312345678",
+                "img": ""
+              },
+              {
+                "name": "Thomas Schmid",
+                "phone": "+4312345678",
+                "img": ""
+              },
+              {
+                "name": "Jona Beck",
+                "phone": "+436607454198",
+                "img": ""
+              }
+            ]
+          }
+        },
+        "ansatz": {
+          "enabled": true,
+          "label": "Ansatz",
+          "data": {
+            "headline": "Wir verbinden passive und aktive Physiotherapie. Damit Sie Ihren Alltag bald wieder meistern können",
+            "items": [
+              {
+                "title": "Passive Physiotherapie – Massage"
+              },
+              {
+                "title": "Passive Physiotherapie – Gelenksmobisarahtion"
+              },
+              {
+                "title": "Aktive Physiotherapie – Training"
+              }
+            ]
+          }
+        },
+        "leistungen": {
+          "enabled": true,
+          "label": "Leistungen & Informationen",
+          "data": {
+            "label": "Leistungen",
+            "text": "Willkommen bei unserer Praxis für Physiotherapie in 1080 Wien, wo Ihre Gesundheit an erster Stelle steht. Unsere Physiotherapeuten sind darauf spezialisiert, Ihnen bei der Bewältigung von Schmerzen, Verletzungen und Mobilitätsproblemen zu helfen. Wir bieten maßgeschneiderte Therapieprogramme, um Ihre Gesundheit und Ihr Wohlbefinden zu fördern. Wir verfügen auch über einen voll ausgestatteten Trainingsraum.",
+            "leistungen": "Sportphysiotherapie & Trainingstherapie | Aktive & passive Reha | Behandlung bei orthopädischen und traumatologischen Beschwerden | Postoperative Reha | Return to Sport",
+            "spezialisierungen": "Wirbelsäule: Bandscheibenvorfall, Spinalkanalstenose, Skoliotische Fehlhaltungen, Facettengelenksarthrose, ISG-Problematiken, Unspezifische Rückenbeschwerden | Schulter: Subakromiales Schmerzsyndrom (Impingement), Riss/Tendinopathie der Rotatorenmanschette, Schulterinstabilität, Frozen Shoulder, Kalkschulter, Arthrose/Arthritis | Knie: Kreuzbandriss, Meniskusverletzungen, Patellafemorales Schmerzsyndrom, Jumpersknee/Runnersknee, Kniearthrose, Knieendoprothese | Ellenbogen | Hüfte | Sprunggelenk",
+            "ablauf": "Für eine physiotherapeutische Behandlung benötigen Sie eine ärztliche Verordnung zur Physiotherapie von Ihrem praktischen Arzt oder Facharzt. Um die Therapiekosten anteilig von der Krankenkasse erstattet zu bekommen, raten wir Ihnen die Verordnung spätestens bis vor der 2. Behandlung chefärztlich bei Ihrer Krankenkasse bewilligen zu lassen. (ÖGK derzeit bewilligungsfrei, SVS: Bewilligung ab der 2. Serie, andere Kassen bitte telefonisch rückfragen)",
+            "preise": "Physiotherapie 45min: €90,- | Physiotherapie 60min: €110,-",
+            "mitbringen": "Zur ersten Therapieeinheit bitte mitnehmen: ärztliche Verordnung/Zuweisung, vorhandene Befunde, gemütliche Kleidung/Sportkleidung, eventuell Handtuch oder Badetuch.",
+            "intro_paragraphs": [
+              "Willkommen bei unserer Praxis für Physiotherapie in 1080 Wien, wo Ihre Gesundheit an erster Stelle steht. Wir bieten unseren Patienten nicht nur Linderung ihrer Beschwerden, sondern ermöglichen ihnen auch eine nachhaltige Steigerung ihrer Lebensqualität.",
+              "Unser ganzheitlicher Therapieansatz zielt darauf ab, die eigentlichen Ursachen von Bewegungseinschränkungen und Schmerzen zu erkennen und individuell zu behandeln. Damit Sie Ihren Alltag bald wieder meistern können.",
+              "Falls gewünscht, kommen wir auch zu Ihnen nach Hause oder in Ihr Unternehmen."
+            ],
+            "leistungen_items": [
+              "Sportphysiotherapie & Trainingstherapie",
+              "Aktive & passive Reha",
+              "Orthopädische und traumatologische Beschwerden",
+              "Postoperative Reha",
+              "Return to Sport",
+              "Präventive Betreuung"
+            ],
+            "spezialisierungen_cards": [
+              {
+                "icon": "🦴",
+                "title": "Wirbelsäule",
+                "items": [
+                  "Bandscheibenvorfall",
+                  "Spinalkanalstenose",
+                  "Skoliotische Fehlhaltungen",
+                  "Facettengelenksarthrose",
+                  "ISG-Problematiken",
+                  "Unspezifische Rückenbeschwerden"
+                ]
+              },
+              {
+                "icon": "💪",
+                "title": "Schulter",
+                "items": [
+                  "Subakromiales Schmerzsyndrom (Impingement)",
+                  "Riss/Tendinopathie der Rotatorenmanschette",
+                  "Schulterinstabilität",
+                  "Frozen Shoulder",
+                  "Kalkschulter",
+                  "Arthrose/Arthritis"
+                ]
+              },
+              {
+                "icon": "🦵",
+                "title": "Knie",
+                "items": [
+                  "Kreuzbandriss",
+                  "Meniskusverletzungen",
+                  "Patellafemorales Schmerzsyndrom",
+                  "Jumpers Knee / Runners Knee",
+                  "Kniearthrose",
+                  "Knieendoprothese"
+                ]
+              },
+              {
+                "icon": "🦶",
+                "title": "Weitere Bereiche",
+                "items": [
+                  "Ellenbogen & Handgelenk",
+                  "Hüfte & Sprunggelenk",
+                  "Osteoporose",
+                  "Sportverletzungen",
+                  "Postoperative Reha",
+                  "Chronische Schmerzen"
+                ]
+              }
+            ],
+            "ablauf_steps": [
+              "Ärztliche Verordnung zur Physiotherapie von Ihrem praktischen Arzt oder Facharzt besorgen.",
+              "Chefärztliche Bewilligung spätestens vor der 2. Behandlung bei Ihrer Krankenkasse einholen. (ÖGK derzeit bewilligungsfrei, SVS: ab der 2. Serie)",
+              "Bezahlung der Behandlungskosten bar oder per Banküberweisung – in Absprache mit dem Therapeuten.",
+              "Nach Therapieende erhalten Sie eine Honorarnote zur anteiligen Rückerstattung durch die Krankenkasse."
+            ],
+            "preise_items": [
+              {
+                "label": "Physiotherapie 45 min",
+                "price": "€90,-"
+              },
+              {
+                "label": "Physiotherapie 60 min",
+                "price": "€110,-"
+              }
+            ]
+          }
+        },
+        "betreuung": {
+          "enabled": true,
+          "label": "Unsere Betreuung",
+          "data": {
+            "label": "Unsere Betreuung",
+            "headline": "Warum uns wählen?",
+            "items": [
+              {
+                "icon": "🔍",
+                "title": "Umfassende Diagnose",
+                "text": "Unsere Spezialisten führen eine gründliche Diagnose durch, um die Ursache Ihrer Beschwerden zu ermitteln. Dies ermöglicht es uns, eine individuelle Behandlungsstrategie zu entwickeln."
+              },
+              {
+                "icon": "⚕️",
+                "title": "Effektive Physiotherapie",
+                "text": "Mit modernsten Techniken und bewährten Methoden bieten wir maßgeschneiderte Physiotherapie, um Schmerzen zu lindern und die Beweglichkeit wiederherzustellen."
+              },
+              {
+                "icon": "🌟",
+                "title": "Präventive Betreuung",
+                "text": "Wir helfen Ihnen nicht nur bei der Heilung von Verletzungen, sondern bieten auch präventive Therapien und Übungen, um zukünftige Probleme zu verhindern."
+              },
+              {
+                "icon": "🛡️",
+                "title": "Persönliche Betreuung",
+                "text": "Unsere Therapeuten sind engagiert und kümmern sich individuell um jeden Patienten. Wir schaffen eine vertrauensvolle Atmosphäre, in der Sie sich wohl fühlen können."
+              }
+            ],
+            "ganzheitlich": "Aufgrund unseres großen Teams können wir Ihnen ein ganzheitliches Konzept mit Physiotherapie, Massage und Personal Training anbieten. Sie werden so z.B. nach Operationen von Anfang (Wundheilung) bis Ende (sportliche Belastbarkeit) von unserem Team bestens & umfangreich betreut.",
+            "contact": "Paul Huber: +4312345678\nSarah Meier: +4312345678\nThomas Schmid: +4312345678",
+            "address": "Mustergasse 12, 1080 Wien"
+          }
+        },
+        "was_ist_physio": {
+          "enabled": true,
+          "label": "Was ist Physiotherapie?",
+          "data": {
+            "label": "Was ist Physiotherapie überhaupt?",
+            "headline": "Was ist Physiotherapie überhaupt?",
+            "text": "Physiotherapie ist ein Bereich der Gesundheitsversorgung, der auf die Wiederherstellung, Erhaltung und Verbesserung der körperlichen Funktionen und Beweglichkeit von Menschen abzielt. Diese Fachrichtung zielt darauf ab, Schmerzen zu lindern, die Beweglichkeit zu verbessern und die Lebensqualität von Menschen zu steigern.",
+            "categories": [
+              {
+                "icon": "🤲",
+                "title": "Passive Physiotherapie",
+                "text": "Manuelle Techniken, Massage und Mobisarahtion durch Ihre/n TherapeutIn – zur Schmerzlinderung und Verbesserung der Beweglichkeit."
+              },
+              {
+                "icon": "🏋️",
+                "title": "Aktive Physiotherapie",
+                "text": "Therapeutisches Training und gezielte Übungen, die Sie aktiv stärken und langfristig unabhängiger machen."
+              },
+              {
+                "icon": "🛡️",
+                "title": "Prävention",
+                "text": "Gezielte Maßnahmen, um Verletzungen und Beschwerden gar nicht erst entstehen zu lassen – für dauerhafte Gesundheit."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "studio": {
+      "seo": {
+        "title": "FlexFit Studio Wien 1080 | Fitnessraum & Therapieraum mieten",
+        "description": "Privates Personal Training Studio in 1080 Wien, Mustergasse 12. Fitnessraum & Therapieraum mieten. 2 Trainingsräume, 1 Therapieraum, Garderobe & Dusche.",
+        "og_title": "FlexFit Studio Wien 1080",
+        "og_description": "Privates Personal Training Studio in Wien 1080 – Fitnessraum und Therapieraum mieten.",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "label": "Unser Studio",
+            "headline": "FlexFit Fitnessraum & Therapieraum Mustergasse 12, 1080 Wien",
+            "subtext": "FlexFit Personal Training Studio",
+            "cta": "Zum Team",
+            "cta_url": "/team.php"
+          }
+        },
+        "studio_info": {
+          "enabled": true,
+          "label": "Unser privates Studio",
+          "data": {
+            "label": "Unser privates Studio",
+            "headline": "Unser privates Studio",
+            "text": "Ungestörtes, Individuelles Training anstatt überfüllten, unpersönlichen Fitnessstudios. Ihre Zufriedenheit. Ihr Wohlbefinden. Das ist unser Ziel. Wir verfügen über 2 Trainingsräume und einen Therapieraum. Die Trainingsräume sind ausgestattet mit Kabelzügen, Racks, Multipress, Airbike, Langhanteln, Kurzhanteln, Kettle Bells und mini Equipment, um ein optimales Training zu gewährleisten. Bei FlexFit werden auch Handtücher und Getränke zur Verfügung gestellt, um ein perfektes und sorgenfreies Fitness Erlebnis zu gewährleisten. Natürlich verfügen wir auch über Garderobe & Dusche.",
+            "raeume": [
+              "Gym 1",
+              "Gym 2",
+              "Therapieraum",
+              "Garderobe"
+            ],
+            "paragraphs": [
+              "Ungestörtes, individuelles Training anstatt überfüllter, unpersönlicher Fitnessstudios. Bei FlexFit gibt es kein Warten auf Geräte. Unser privates, voll ausgestattetes Personal Training Studio in Wien 1080 bietet Ihnen absolute Privatsphäre.",
+              "Die Trainingseinheiten finden völlig ungestört statt – ein Trainer arbeitet exklusiv mit Ihnen. Keine überfüllten Räume, kein Stress – reiner Fokus auf Ihr Training."
+            ],
+            "motto": "Ihre Zufriedenheit. Ihr Wohlbefinden. Das ist unser Ziel.",
+            "features": [
+              "2 Trainingsräume + 1 Therapieraum",
+              "Kabelzüge, Racks, Multipress, Airbike",
+              "Lang- und Kurzhanteln, Kettlebells",
+              "Handtücher & Getränke inklusive",
+              "Garderobe & Dusche"
+            ]
+          }
+        },
+        "raummiete": {
+          "enabled": true,
+          "label": "Fitnessraum & Therapieraum mieten",
+          "data": {
+            "label": "Fitnessraum mieten & Therapieraum mieten Wien",
+            "headline": "Fitnessraum mieten & Therapieraum mieten Wien",
+            "text": "Bei FlexFit gibt es auch eine sehr attraktive Möglichkeit zur Einmietung. Für selbstständige Trainer, Physios, Masseure, Ernährungsberater oder andere Gesundheitsexperten. Wir bieten: Trainingsraum / Fitnessraum (40 m²) – ideal für Personal Training und Physiotherapie | Therapieraum (22 m²) – perfekt für Physiotherapie, Massage oder Beratung. Die Räume sind zu fixen Tagen mietbar – wahlweise halbtags (bis oder ab 14:00 Uhr) oder ganztags. Zögern Sie nicht, sich einen unverbindlichen Besichtigungstermin zu sichern.",
+            "vorteile": [
+              "Geringe Fixkosten – zahlen Sie nur für die Tage, die Sie tatsächlich nutzen",
+              "Keine Investitionen in Ausstattung, Geräte, Renovierung oder Provision",
+              "Voll ausgestattete Räume – sofort startklar für Training oder Therapie",
+              "Fixkosten – Strom, Heizung, Internet & Reinigung inklusive",
+              "Kurze Bindung – nur 6 Monate, mit 2 Monaten Kündigungsfrist",
+              "Kein finanzielles Risiko – ideal zum Start oder Ausbau Ihrer Selbstständigkeit",
+              "Zentrale Lage & professionelles Umfeld – profitieren Sie vom positiven Image von FlexFit"
+            ],
+            "preise_trainingsraum": "Fixer Halbtag: €170,- netto pro Monat | Fixer Ganztag: €270,- netto pro Monat",
+            "note": "Der Trainingsraum wird an maximal 2 Trainer zeitgleich vermietet. Exklusive Miete ist möglich und kostet 70% mehr.",
+            "vorteile_cards": [
+              {
+                "title": "Geringe Fixkosten",
+                "text": "Zahlen Sie nur für die Tage, die Sie tatsächlich nutzen."
+              },
+              {
+                "title": "Keine Investitionen",
+                "text": "Keine Ausgaben für Ausstattung, Geräte, Renovierung oder Provision."
+              },
+              {
+                "title": "Kein finanzielles Risiko",
+                "text": "Ideal zum Start oder Ausbau Ihrer Selbstständigkeit – keine Kosten für Ausstattung, Geräte oder Provision."
+              },
+              {
+                "title": "Sofort startklar",
+                "text": "Voll ausgestattete Räume – sofort einsatzbereit für Training oder Therapie."
+              },
+              {
+                "title": "All-inclusive",
+                "text": "Strom, Heizung, Internet & Reinigung inklusive."
+              },
+              {
+                "title": "Kurze Bindung",
+                "text": "Nur 6 Monate, mit 2 Monaten Kündigungsfrist."
+              },
+              {
+                "title": "Professionelles Umfeld",
+                "text": "Zentrale Lage – profitieren Sie vom positiven Image von FlexFit."
+              }
+            ]
+          }
+        },
+        "therapieraum": {
+          "enabled": true,
+          "label": "Therapieraum mieten",
+          "data": {
+            "label": "Therapieraum / Massageraum mieten Wien",
+            "headline": "Therapieraum / Massageraum mieten Wien",
+            "items": [
+              "Komplett eingerichteter Therapieraum (22 m²)",
+              "Elektrisch verstellbare Massageliege",
+              "Extra Büro inklusive",
+              "All-inclusive (Energie, Reinigung, Internet)",
+              "Perfekt für Physiotherapie, Massage, Beratung"
+            ],
+            "verfuegbare_zeiten": "Montag, Mittwoch Vormittag | Donnerstag Vormittag | Samstag | Sonntag",
+            "preise": "Fixer Halbtag: €180,- netto pro Monat | Fixer Ganztag: €275,- netto pro Monat",
+            "preise_halbtag": "€180,- netto",
+            "preise_ganztag": "€275,- netto",
+            "verfuegbar": "Mo, Mi VM, Do VM, Sa, So"
+          }
+        },
+        "fitnessraum": {
+          "enabled": true,
+          "label": "Fitnessraum / Gym mieten",
+          "data": {
+            "label": "Fitnessraum / Gym mieten Wien",
+            "headline": "Fitnessraum / Gym mieten Wien",
+            "items": [
+              "Komplett eingerichtetes Gym (40 m²)",
+              "2 Racks, Kurz- & Langhanteln, Multipress, Kabelzug, Kettlebells",
+              "Klimaanlage",
+              "All-inclusive (Energie, Reinigung, Internet)",
+              "Max. 2 Trainer zeitgleich – exklusiv möglich"
+            ],
+            "verfuegbare_zeiten": "Montag Vormittag (exklusiv möglich) | Donnerstag Vormittag (exklusiv möglich) | Wochenende (exklusiv möglich)",
+            "note": "Der Trainingsraum wird an maximal 2 Trainer zeitgleich vermietet. Exklusive Miete ist möglich und kostet 70% mehr. Bei Gruppentrainings muss der Raum exklusiv gemietet werden. Gruppentrainings bis zu maximal 4 Personen.",
+            "preise": "Fixer Halbtag: €170,- netto pro Monat | Fixer Ganztag: €270,- netto pro Monat",
+            "preise_halbtag": "€170,- netto",
+            "preise_ganztag": "€270,- netto",
+            "preise_note": "Halbtage enden und starten um 14:00. Exklusive Miete: +70%",
+            "verfuegbar": "Montag VM, Donnerstag VM, Wochenende"
+          }
+        },
+        "erreichbarkeit": {
+          "enabled": true,
+          "label": "Erreichbarkeit",
+          "data": {
+            "label": "Super Erreichbarkeit aus 1070, 1080, 1090, 1160 & 1170",
+            "text": "Unser Studio besticht durch eine sehr gute Erreichbarkeit. Öffentlich über die U-6, sowie die Straßenbahnlinien 9, 42 & 43. Zu Fuß oder mit dem Rad ist das Studio selbstverständlich aus 1080 und den angrenzenden Bezirken 1070, 1090, 1160, 1170, 1180 sowie 1190 sehr gut erreichbar. Mit dem Auto findet man ebenso immer einen Parkplatz nahe des Studios.",
+            "address": "Adresse: Muster Fitness KG & FlexFit Personal Training e.U., Mustergasse 12, 1080 Wien",
+            "contact": "marcus@flexfit-demo.at | Vermietungen durch Muster Fitness KG"
+          }
+        }
+      }
+    },
+    "team": {
+      "seo": {
+        "title": "Unser Trainerteam | FlexFit Personal Training Wien",
+        "description": "Lernen Sie das FlexFit Team kennen – Marcus Muster, Eric Weber und Oliver Kraft. Personal Trainer & Physiotherapeuten in Wien 1080.",
+        "og_title": "Unser Team | FlexFit Personal Training Wien",
+        "og_description": "Das FlexFit Team aus Personal Trainern & Physiotherapeuten in Wien 1080.",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "label": "Unser Team",
+            "headline": "Unser Team",
+            "subtext": "Wir sind stets bemüht, Ihnen durch enge Zusammenarbeit unseres Teams, eine optimale Betreuung zu gewähren."
+          }
+        },
+        "trainers": {
+          "enabled": true,
+          "label": "Trainer",
+          "data": {
+            "label": "Unser Trainerteam",
+            "members": [
+              {
+                "name": "Marcus Muster",
+                "role": "Trainer & Gründer",
+                "focus": "Gesundheit, Fitness & Lebensqualität",
+                "price": "Training ab €86,-*",
+                "bio": "Mein Name ist Marcus Muster, Gründer von FlexFit Personal Training Wien. Ich habe nicht nur jahrelange Erfahrung als Leistungssportler, sondern biete auch den theoretischen Hintergrund dazu. Als Sportwissenschaftler und staatlich geprüfter Fitnesstrainer konnte ich meine eigenen Erfahrungen durch theoretisches Wissen erweitern um meinen Klienten ein kompetentes und höchst professionelles Training zu bieten. Weitere Erfahrungen machte ich im Sommer 2013, als ich die Fußballmannschaften von AS Monaco, sowie Ajax Amsterdam auf dem Trainingslager betreute.",
+                "img": "/assets/img/team/marcus-kohler.jpg",
+                "specs": [
+                  "Sportwissenschaftler",
+                  "Staatl. gepr. Fitnesstrainer",
+                  "15+ Jahre Erfahrung",
+                  "Ihr Lifestyle-Experte für Fitness, Langlebigkeit & Rückengesundheit"
+                ]
+              },
+              {
+                "name": "Eric Weber",
+                "role": "Trainer",
+                "focus": "Muskel- & Kraftaufbau",
+                "price": "Training ab €76,-*",
+                "bio": "Ihr Coach für Muskelaufbau, Kraft & Abnehmen",
+                "img": "/assets/img/team/eric-weber.jpeg",
+                "specs": []
+              },
+              {
+                "name": "Oliver Kraft",
+                "role": "Trainer",
+                "focus": "Gesundheit & Körperformung",
+                "price": "Training ab €69,-*",
+                "bio": "Ihr Trainer für Gesundheit, Krafttraining & Körpertransformation",
+                "img": "/assets/img/team/oliver-kraft.jpeg",
+                "specs": []
+              }
+            ],
+            "price_note": "*Unsere ab-Preise verstehen sich pro Trainingseinheit bei Kauf eines 10er-Blocks à 45 Minuten"
+          }
+        },
+        "physiotherapie": {
+          "enabled": true,
+          "label": "Physiotherapie Team",
+          "data": {
+            "label": "Physiotherapie",
+            "members": [
+              {
+                "name": "Paul Huber",
+                "phone": "+4312345678"
+              },
+              {
+                "name": "Sarah Meier",
+                "phone": "+4312345678"
+              },
+              {
+                "name": "Thomas Schmid",
+                "phone": "+4312345678"
+              },
+              {
+                "name": "Jona Beck",
+                "phone": "+436607454198"
+              }
+            ]
+          }
+        },
+        "contact": {
+          "enabled": true,
+          "label": "Kontakt",
+          "data": {
+            "text": "Zu Fuß, öffentlich, mit dem Rad oder dem Auto ist unser Studio selbstverständlich ebenso aus den angrenzenden Bezirken 1070, 1090, 1160, 1170, sowie 1180 sehr gut erreichbar.",
+            "address": "Smartfit Personal Training e.U. | Muster Fitness KG | Mustergasse 12, 1080 Wien",
+            "email": "marcus@flexfit-demo.at"
+          }
+        }
+      }
+    },
+    "blog": {
+      "seo": {
+        "title": "Blog & Insights | FlexFit Wien",
+        "description": "Wissenschaftlich fundierte Artikel zu Training, Ernährung und Gesundheit.",
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "label": "Blog & Wissen",
+            "headline": "Training. Ernährung.<br>Gesundheit.",
+            "subtext": "Wissenschaftlich fundierte Artikel von Sportwissenschaftler Marcus Muster."
+          }
+        },
+        "articles": {
+          "enabled": true,
+          "label": "Blog-Artikel",
+          "data": {
+            "items": [
+              {
+                "emoji": "⚖️",
+                "title": "Volkskrankheit Adipositas – Welche Trainingsform ist am effektivsten?",
+                "date": "07/10/2024",
+                "excerpt": "Eignet sich Ausdauer- oder Krafttraining besser für langfristigen Gewichts- bzw. Fettverlust?",
+                "url": "/blog/volkskrankheit-adipositas"
+              },
+              {
+                "emoji": "🩺",
+                "title": "Diabetes & Krafttraining",
+                "date": "08/04/2024",
+                "excerpt": "Krafttraining als Wundermittel zur Prävention und Bekämpfung von Diabetes?",
+                "url": "/blog/diabetes-krafttraining"
+              },
+              {
+                "emoji": "🥗",
+                "title": "Gesunde Ernährung II – Do's and Don'ts",
+                "date": "30/03/2022",
+                "excerpt": "Die wichtigsten Do's and Don'ts einer gesunden Ernährung.",
+                "url": "/blog/gesunde-ernaehrung-dos-and-donts"
+              },
+              {
+                "emoji": "📚",
+                "title": "Gesunde Ernährung I – Basiswissen",
+                "date": "22/03/2022",
+                "excerpt": "Energiebilanz, Makronährstoffe, Grundumsatz – das Basiswissen für eine gesunde Ernährung.",
+                "url": "/blog/gesunde-ernaehrung-basiswissen"
+              },
+              {
+                "emoji": "💪",
+                "title": "Deshalb musst DU mit dem Krafttraining starten!",
+                "date": "18/03/2022",
+                "excerpt": "7 positive Auswirkungen des Krafttrainings auf deinen Körper.",
+                "url": "/blog/deshalb-musst-du-krafttraining-starten"
+              },
+              {
+                "emoji": "❤️",
+                "title": "Sport & metabolisches Syndrom",
+                "date": "17/01/2022",
+                "excerpt": "Wie wirkt Sport auf das metabolische Syndrom?",
+                "url": "/blog/sport-metabolisches-syndrom"
+              },
+              {
+                "emoji": "⏳",
+                "title": "Krafttraining im Alter",
+                "date": "17/01/2022",
+                "excerpt": "Eine Investition in Ihre Zukunft & Lebensqualität.",
+                "url": "/blog/krafttraining-im-alter"
+              },
+              {
+                "emoji": "🪑",
+                "title": "Du hast ständig Rücken- und Nackenschmerzen vom Sitzen?",
+                "date": "17/01/2022",
+                "excerpt": "Einfache Übungen gegen Rücken- und Nackenschmerzen.",
+                "url": "/blog/ruecken-nackenschmerzen-vom-sitzen"
+              }
+            ]
+          }
+        },
+        "cta": {
+          "enabled": true,
+          "label": "Call to Action",
+          "data": {
+            "headline": "Dein Weg zu mehr Gesundheit",
+            "subtext": "Theorie alleine reicht nicht. Wagnere dein kostenloses Probetraining und starte durch.",
+            "btn_primary": "Probetraining buchen →"
+          }
+        }
+      }
+    },
+    "kontakt": {
+      "seo": {
+        "title": "Kontakt | FlexFit Personal Training Wien 1080",
+        "description": "Kontaktieren Sie FlexFit Personal Training Wien. Gratis Probetraining buchen. Mustergasse 12, 1080 Wien. Tel: +43 1 2345678.",
+        "og_title": "Kontakt | FlexFit Personal Training Wien",
+        "og_description": "FlexFit Personal Training Wien – Kontakt aufnehmen und gratis Probetraining buchen.",
+        "og_image": "",
+        "noindex": false
+      },
+      "sections": {
+        "hero": {
+          "enabled": true,
+          "label": "Hero-Bereich",
+          "data": {
+            "label": "Kontakt",
+            "headline": "Kontakt",
+            "subtext": "Der Weg zu mehr Lebensqualität & Fitness: Sichern Sie sich jetzt Ihr kostenloses, unverbindliches Probetraining (Gespräch & Training ca. 60 min.) bei FlexFit Personal Training Wien."
+          }
+        },
+        "trainers": {
+          "enabled": true,
+          "label": "Unser Trainerteam",
+          "data": {
+            "label": "Unser Trainerteam",
+            "price_note": "*Unsere ab-Preise verstehen sich pro Trainingseinheit bei Kauf eines 10er-Blocks à 45 Minuten",
+            "items": [
+              {
+                "name": "Marcus",
+                "focus": "Ihr Lifestyle-Experte mit 15 Jahren Erfahrung für Fitness, Langlebigkeit & Rückengesundheit",
+                "price": "Training ab €86,-*",
+                "img": "/assets/img/team/marcus-kohler.jpg"
+              },
+              {
+                "name": "Eric",
+                "focus": "Ihr Coach für Muskelaufbau, Kraft & Abnehmen",
+                "price": "Training ab €76,-*",
+                "img": "/assets/img/team/eric-weber.jpeg"
+              },
+              {
+                "name": "Oliver",
+                "focus": "Ihr Trainer für Gesundheit, Krafttraining & Körpertransformation",
+                "price": "Training ab €69,-*",
+                "img": "/assets/img/team/oliver-kraft.jpeg"
+              }
+            ]
+          }
+        },
+        "erreichbarkeit": {
+          "enabled": true,
+          "label": "Erreichbarkeit",
+          "data": {
+            "label": "Erreichbarkeit",
+            "text": "Unser Studio besticht durch eine sehr gute Erreichbarkeit. Öffentlich über die U-6, sowie die Straßenbahnlinien 9, 42 & 43. Zu Fuß oder mit dem Rad ist das Studio selbstverständlich aus 1080 und den angrenzenden Bezirken 1070, 1090, 1160, 1170, 1180 sowie 1190 sehr gut erreichbar. Mit dem Auto findet man ebenso immer einen Parkplatz nahe des Studios.",
+            "address": "Marcus Muster | FlexFit Personal Training e.U. | Muster Fitness KG | Mustergasse 12, 1080 Wien | marcus@flexfit-demo.at"
+          }
+        }
+      }
+    },
+    "probetraining": {
+      "seo": {
+        "title": "Gratis Probetraining | FlexFit Wien 1080",
+        "description": "Jetzt kostenlos & unverbindlich ein Probetraining bei FlexFit in Wien 1080 buchen.",
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "noindex": false
+      }
+    },
+    "impressum": {
+      "seo": {
+        "title": "Impressum | FlexFit Wien",
+        "description": "Impressum der FlexFit Personal Training. Muster Fitness KG, Mustergasse 12, 1080 Wien.",
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "noindex": true
+      },
+      "sections": {
+        "content": {
+          "enabled": true,
+          "label": "Impressum-Inhalt",
+          "data": {
+            "person": "Marcus Muster",
+            "person_role": "Sportwissenschaftler und staatlich geprüfter Fitnesstrainer",
+            "company": "Muster Fitness KG",
+            "address": "Mustergasse 12\n1080 Wien",
+            "phone": "(+43) 01 2345678",
+            "email": "marcus@flexfit-demo.at",
+            "nutzungsbedingungen": "Die Inhalte dieser Website wurden sorgfältig zusammengestellt und überprüft. Es kann jedoch keine Garantie hinsichtlich Richtigkeit, Vollständigkeit und Aktualität gegeben werden.",
+            "analytics_text": "Auf dieser Website wird Google Analytics eingesetzt."
+          }
+        }
+      }
+    },
+    "datenschutz": {
+      "seo": {
+        "title": "Datenschutz | FlexFit Wien",
+        "description": "Datenschutzerklärung von FlexFit Personal Training Wien.",
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "noindex": true
+      },
+      "sections": {
+        "content": {
+          "enabled": true,
+          "label": "Datenschutz-Inhalt",
+          "data": {
+            "intro": "FlexFit nimmt den Schutz Ihrer personenbezogenen Daten ernst.",
+            "sections": [
+              {
+                "title": "Umfang der Verarbeitung personenbezogener Daten",
+                "text": "Wir erheben und verwenden personenbezogene Daten grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Website erforderlich ist."
+              },
+              {
+                "title": "Rechtsgrundlage",
+                "text": "Soweit wir Einwilligungen einholen, gilt Art. 6 Abs. 1 lit. a DSGVO. Für Vertragserfüllung gilt Art. 6 Abs. 1 lit. b DSGVO."
+              },
+              {
+                "title": "Datenlöschung und Speicherdauer",
+                "text": "Die personenbezogenen Daten werden gelöscht, sobald der Zweck der Speicherung entfällt."
+              },
+              {
+                "title": "Ihre Rechte",
+                "text": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung."
+              },
+              {
+                "title": "Bereitstellung der Website / Logfiles",
+                "text": "Bei jedem Aufruf erfasst unser System automatisiert Daten vom aufrufenden Rechner. Diese Daten werden nach spätestens sieben Tagen gelöscht."
+              },
+              {
+                "title": "Kontaktformular",
+                "text": "Die eingegebenen Daten werden an uns übermittelt und gespeichert. Eine Weitergabe an Dritte findet nicht statt."
+              },
+              {
+                "title": "Cookies",
+                "text": "Unsere Webseite verwendet technisch notwendige Cookies."
+              },
+              {
+                "title": "Google Analytics",
+                "text": "Diese Website benutzt Google Analytics. Durch Aktivierung der IP-Anonymisierung wird Ihre IP-Adresse innerhalb der EU gekürzt."
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "global": {
+    "tracking": {
+      "google_analytics_id": "",
+      "google_tag_manager_id": ""
+    },
+    "footer": {
+      "tagline": "Personal Training in Wien – individuell, wissenschaftlich fundiert."
+    }
+  },
+  "meta": {
+    "cms_version": "2.0.0",
+    "last_updated": "2026-03-25"
+  }
+}
